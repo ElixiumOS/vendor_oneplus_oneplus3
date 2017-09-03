@@ -787,12 +787,9 @@ PRODUCT_PACKAGES += \
     embms \
     fastdormancy \
     shutdownlistener \
-    CNEService \
     com.qualcomm.location \
     qcrilmsgtunnel \
     colorservice \
-    ims \
-    imssettings \
     qcnvitems \
     qcrilhook \
     libgpustats
