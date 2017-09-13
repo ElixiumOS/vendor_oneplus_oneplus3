@@ -788,7 +788,8 @@ PRODUCT_PACKAGES += \
     ims \
     imssettings \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+    libgpustats
 endif
 
 -include vendor/extra/devices.mk
