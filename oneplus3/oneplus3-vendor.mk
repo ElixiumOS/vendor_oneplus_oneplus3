@@ -785,11 +785,12 @@ PRODUCT_PACKAGES += \
     TimeService \
     datastatusnotification \
     embms \
-    fastdormancy \
     shutdownlistener \
     com.qualcomm.location \
     qcrilmsgtunnel \
     colorservice \
+    ims \
+    imssettings \
     qcnvitems \
     qcrilhook \
     libgpustats
